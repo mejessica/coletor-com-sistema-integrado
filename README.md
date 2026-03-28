@@ -1,6 +1,5 @@
-Aqui está um README organizado, profissional e pronto para GitHub 👇
 
----
+<img width="1024" height="768" alt="design (Apresentação (43))" src="https://github.com/user-attachments/assets/9ed260b2-b50a-4162-ae31-e5b3566ca464" />
 
 # ♻️ Coletores Inteligentes para Materiais Específicos
 
