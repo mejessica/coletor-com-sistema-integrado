@@ -160,6 +160,3 @@ Possibilidades de evolução:
 * Sistema de recompensas para usuários
 * Aplicativo para monitoramento em tempo real
 
----
-
-Se quiser, posso deixar esse README **mais visual (com badges, ícones, layout mais “bonito” estilo portfólio)** ou adaptar pro seu estilo de design 👀
